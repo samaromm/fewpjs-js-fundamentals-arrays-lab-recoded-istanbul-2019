@@ -4,4 +4,4 @@ prepend= ["Milo", "Otis", "Garfield"],
 removeLast= ["Milo", "Otis", "Garfield"]
 , removeFirst=["Milo", "Otis", "Garfield"];
 
-append.unshift('Odie');
+append.push('Odie');
