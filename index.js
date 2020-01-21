@@ -6,5 +6,5 @@ removeLast= ["Milo", "Otis", "Garfield"]
 
 append.push('Odie');
 prepend.unshift('Odie');
-removeLast.pull();
+removeLast.pop();
 removeFirst.shift();
